@@ -9,17 +9,13 @@
 ## 1. Алгоритм и блок-схема
 ### Алгоритм решения
 1. **Начало**
-2. Объявить константы:
-   - BRIG_1 = 2
-   - BRIG_2 = 3
-
-3. Задать исходные данные: 
+2. Задать исходные данные: 
    - x (первая бригада)
    - y (вторая бригада)
-4. Вычислить среднее значение 
-   - t = (x * y) / (x + y) 
-5. Вывести результат  
-6. **Конец**
+3. Вычислить среднее значение 
+   - t = (x * y) / (x + y)
+4. Вывести результат  
+5. **Конец**
 ### Блок-схема
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/reso1utik/sergey/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%B4%D0%B7.drawio.png)
 
