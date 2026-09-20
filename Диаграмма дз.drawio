@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="XH56UkyBV2V2KmoW8Tn7">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-11" edge="1" parent="1" source="iRyTw4o9piJ6qwBAyjDM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iRyTw4o9piJ6qwBAyjDM-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Начало" vertex="1">
+          <mxGeometry height="50" width="186" x="286" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;" value="&lt;br&gt;Вводим: x, y&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="166" x="296" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-14" edge="1" parent="1" source="iRyTw4o9piJ6qwBAyjDM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iRyTw4o9piJ6qwBAyjDM-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="t = (x * y) / (x + y)" vertex="1">
+          <mxGeometry height="80" width="198" x="280" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Конец" vertex="1">
+          <mxGeometry height="60" width="176" x="291" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-13" edge="1" parent="1" source="iRyTw4o9piJ6qwBAyjDM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iRyTw4o9piJ6qwBAyjDM-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Выводим: t&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="166" x="296" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="iRyTw4o9piJ6qwBAyjDM-10" edge="1" parent="1" source="iRyTw4o9piJ6qwBAyjDM-6" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;startArrow=classicThin;startFill=1;" target="iRyTw4o9piJ6qwBAyjDM-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="376" y="450" as="sourcePoint" />
+            <mxPoint x="426" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
